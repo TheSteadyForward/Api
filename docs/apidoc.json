@@ -1,0 +1,16 @@
+{
+  "name": "Funenc项目接口文档",
+  "version": "1.0.0",
+  "description": "",
+  "title": "项目接口文档",
+  "url" : "http://nick.cn1.utools.club",
+  "header": {
+    "title": "综述",
+    "filename": "header.md"
+  },
+  "template":{
+    "forceLanguage":"zh_cn",
+    "withCompare": false,
+    "withGenerator":true
+  }
+}
